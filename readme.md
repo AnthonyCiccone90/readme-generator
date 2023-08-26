@@ -52,7 +52,7 @@
   <hr>
 
   Demonstration video:
-<hr>
+<hr><video src="Screen%20Recording%202023-08-26%20at%2013.25.33.mp4" controls title="Title"></video>
 Sources:
 <br>
 Inquirer package: https://www.npmjs.com/package/inquirer
