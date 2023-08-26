@@ -50,9 +50,11 @@
 
   Contact: [GitHub](https://github.com/AnthonyCiccone90) | Email: cicconeworldwide@gmail.com
   <hr>
+Demonstration video:
 
-  
-<hr><video src="https://drive.google.com/file/d/1uCmnLO-7Va3nQpp2gatonV8_0HGfy9kQ/view?usp=drive_link" controls title="Title">Demonstration video</video>
+https://drive.google.com/file/d/1uCmnLO-7Va3nQpp2gatonV8_0HGfy9kQ/view?usp=drive_link  
+<hr>
+
 Sources:
 <br>
 Inquirer package: https://www.npmjs.com/package/inquirer
