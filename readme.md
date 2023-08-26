@@ -51,8 +51,8 @@
   Contact: [GitHub](https://github.com/AnthonyCiccone90) | Email: cicconeworldwide@gmail.com
   <hr>
 
-  Demonstration video:
-<hr><video src="Screen%20Recording%202023-08-26%20at%2013.25.33.mp4" controls title="Title"></video>
+  
+<hr><video src="Screen%20Recording%202023-08-26%20at%2013.25.33.mp4" controls title="Title">Demonstration video</video>
 Sources:
 <br>
 Inquirer package: https://www.npmjs.com/package/inquirer
