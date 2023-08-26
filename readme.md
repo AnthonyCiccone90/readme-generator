@@ -29,7 +29,7 @@
   This challenge was based on using node.js to generate a professional README with ease. This README you are reading now has been created using the generator.
 
   ## Installation
-  Two packages are needed for this generator to work properly: Inquirer and badge-maker. Inquirer is used primarily for the prompted questions and bage-maker is used for creating the license badge. This can be installed using <npm i inquirer @8.2.4> and <npm i badge-maker> respectively.
+  Two packages are needed for this generator to work properly: Inquirer and badge-maker. Inquirer is used primarily for the prompted questions and bage-maker is used for creating the license badge. These can be installed using the command line.
 
   ## Usage
   This application is used to create a professional README in a clean and easy to navigate format.
